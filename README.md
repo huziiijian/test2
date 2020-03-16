@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-一个基于react hooks搭建的能够访问真实github用户信息的小项目，服务器采用netlify，连接： https://hzj-react-githubfinder.netlify.com
+一个基于react hooks搭建的能够访问真实github用户信息的小项目，服务器采用netlify
+连接： https://hzj-react-githubfinder.netlify.com
 
-=======
->>>>>>> ebd158d4d0521590c778f77e8420df19d3ebfcce
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
