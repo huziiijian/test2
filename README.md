@@ -1,13 +1,6 @@
-<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # test1
-=======
-一个基于react hooks搭建的,能够访问真实github用户信息的小项目，服务器采用netlify搭建
-连接： https://hzj-react-githubfinder.netlify.com
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
->>>>>>> 246e7b74487aa011f96cc12754083518c7792860
 
 ## Available Scripts
 
